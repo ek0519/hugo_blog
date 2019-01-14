@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/first-post/</loc>
+    <loc>https://ek0519.github.com/hugo_blog/posts/first-post/</loc>
     <lastmod>2019-01-14T22:31:49+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ek0519.github.com/hugo_blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2019-01-14T22:31:49+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://ek0519.github.com/hugo_blog/</loc>
     <lastmod>2019-01-14T22:31:49+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ek0519.github.com/hugo_blog/posts/</loc>
+    <lastmod>2019-01-14T22:31:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ek0519.github.com/hugo_blog/tags/</loc>
     <priority>0</priority>
   </url>
   

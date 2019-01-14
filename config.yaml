@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://ek0519.github.com/hugo_blog
 languageCode: en-us
 title: My New Hugo Site
 theme: "charaka-hugo-theme"
