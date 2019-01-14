@@ -1,4 +1,4 @@
 baseURL: https://ek0519.github.com/hugo_blog
-languageCode: en-us
+languageCode: en
 title: My New Hugo Site
 theme: "charaka-hugo-theme"
