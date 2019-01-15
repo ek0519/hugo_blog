@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ek0519.github.com/posts/first-post/</loc>
+    <loc>https://ek0519.github.io/hugo_blog/posts/first-post/</loc>
     <lastmod>2019-01-14T22:31:49+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ek0519.github.com/categories/</loc>
+    <loc>https://ek0519.github.io/hugo_blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ek0519.github.com/</loc>
-    <lastmod>2019-01-14T22:31:49+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ek0519.github.com/posts/</loc>
+    <loc>https://ek0519.github.io/hugo_blog/</loc>
     <lastmod>2019-01-14T22:31:49+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ek0519.github.com/tags/</loc>
+    <loc>https://ek0519.github.io/hugo_blog/posts/</loc>
+    <lastmod>2019-01-14T22:31:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ek0519.github.io/hugo_blog/tags/</loc>
     <priority>0</priority>
   </url>
   
