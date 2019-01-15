@@ -928,12 +928,6 @@
   </url>
   
   <url>
-    <loc>https://ek0519.github.io/hugo_blog/</loc>
-    <lastmod>2018-12-31T04:11:47+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ek0519.github.io/hugo_blog/posts/</loc>
     <lastmod>2018-12-31T04:11:47+00:00</lastmod>
     <priority>0</priority>
@@ -941,6 +935,12 @@
   
   <url>
     <loc>https://ek0519.github.io/hugo_blog/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ek0519.github.io/hugo_blog/</loc>
+    <lastmod>2018-12-31T04:11:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
